@@ -1,0 +1,1 @@
+# Calculation-of-the-amount-of-electricity-consumed-by-the-electric-motor
