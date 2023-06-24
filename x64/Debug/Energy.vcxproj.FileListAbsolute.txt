@@ -1,0 +1,35 @@
+C:\Users\Vova\source\repos\svetil\svetil\x64\Debug\svetil.vcxproj.AssemblyReference.cache
+C:\Users\Vova\source\repos\svetil\svetil\x64\Debug\svetil.vcxproj.SuggestedBindingRedirects.cache
+D:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.vcxproj.AssemblyReference.cache
+D:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.vcxproj.SuggestedBindingRedirects.cache
+D:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.sveti.resources
+D:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.vcxproj.GenerateResource.cache
+E:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.vcxproj.AssemblyReference.cache
+E:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.vcxproj.SuggestedBindingRedirects.cache
+E:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.sveti.resources
+E:\Работа\ДОП\Системы ИИ\Модуль 5\svetil\svetil\x64\Debug\svetil.vcxproj.GenerateResource.cache
+C:\Users\Vova\source\repos\svetil\svetil\x64\Debug\svetil.sveti.resources
+C:\Users\Vova\source\repos\svetil\svetil\x64\Debug\svetil.vcxproj.GenerateResource.cache
+C:\Users\Пользователь-СГАУ\Desktop\Свет\svetil\x64\Debug\svetil.vcxproj.AssemblyReference.cache
+C:\Users\Пользователь-СГАУ\Desktop\Свет\svetil\x64\Debug\svetil.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь-СГАУ\Desktop\Свет\svetil\x64\Debug\svetil.sveti.resources
+C:\Users\Пользователь-СГАУ\Desktop\Свет\svetil\x64\Debug\svetil.vcxproj.GenerateResource.cache
+F:\Програмирование\Свет\svetil\x64\Debug\svetil.vcxproj.AssemblyReference.cache
+F:\Програмирование\Свет\svetil\x64\Debug\svetil.vcxproj.SuggestedBindingRedirects.cache
+F:\Програмирование\Свет\svetil\x64\Debug\svetil.sveti.resources
+F:\Програмирование\Свет\svetil\x64\Debug\svetil.vcxproj.GenerateResource.cache
+E:\svetil\x64\Debug\svetil.vcxproj.AssemblyReference.cache
+E:\svetil\x64\Debug\svetil.vcxproj.SuggestedBindingRedirects.cache
+E:\svetil\x64\Debug\svetil.sveti.resources
+E:\svetil\x64\Debug\svetil.vcxproj.GenerateResource.cache
+D:\svetil\x64\Debug\Energy.vcxproj.AssemblyReference.cache
+D:\svetil\x64\Debug\Energy.vcxproj.SuggestedBindingRedirects.cache
+D:\svetil\x64\Debug\svetil.Energy.resources
+D:\svetil\x64\Debug\Energy.vcxproj.GenerateResource.cache
+F:\svetil\x64\Debug\Energy.vcxproj.AssemblyReference.cache
+F:\svetil\x64\Debug\Energy.vcxproj.SuggestedBindingRedirects.cache
+F:\svetil\x64\Debug\svetil.Energy.resources
+F:\svetil\x64\Debug\Energy.vcxproj.GenerateResource.cache
+F:\svetil\x64\Debug\Energy.exe
+D:\svetil\x64\Debug\Energy.exe
+D:\svetil\x64\Debug\Energy.rc

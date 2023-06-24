@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (svetil.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Energy.cpp
+D:\svetil\Energy.cpp(1,10): fatal  error C1083: Не удается открыть файл включение: sveti.h: No such file or directory,
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
